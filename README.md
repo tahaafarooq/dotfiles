@@ -1,0 +1,2 @@
+# dotfiles
+🖥️WM Configs
