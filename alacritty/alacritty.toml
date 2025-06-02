@@ -1,0 +1,38 @@
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[font]
+size = 12.0
+
+[font.bold]
+family = "Iosevka Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "Iosevka Nerd Font"
+style = "Bold Oblique"
+
+[font.italic]
+family = "Iosevka Nerd Font"
+style = "Oblique"
+
+[font.normal]
+family = "Iosevka Nerd Font"
+style = "Regular"
+
+[terminal]
+shell = "/usr/bin/zsh"
+
+[window]
+decorations = "none"
+opacity = 0.85
+startup_mode = "Maximized"
+option_as_alt = "Both"
+#dynamic_padding = false
+
+#[window.padding]
+#x=15
+#y=10
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
